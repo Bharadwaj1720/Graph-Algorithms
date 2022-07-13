@@ -1,0 +1,56 @@
+-----------------------Test case 1-------------------
+Select a choice:
+1) Create your own graph and perform Dijkstra
+2)Test Dijkstra algorithm with preloaded Test case1.
+1
+Enter the number of Vertices
+9
+Enter the number of Edges
+14
+Note: Vertex enumaration: 0,1,2,.....n-1| n=number of vertices
+Enter the edges in the following formate: ('Starting vertex' 'Ending vertex' 'Weight of edge')
+0 1 4
+0 7 8
+1 2 8
+1 7 11
+2 3 7
+2 8 2
+2 5 4
+3 4 9
+3 5 14
+4 5 10
+5 6 2
+6 7 1
+6 8 6
+7 8 7
+Enter the source vertex number
+0
+0 - 0
+1 - 4
+2 - 12
+3 - 19
+4 - 28
+5 - 16
+6 - 18
+7 - 8
+8 - 14
+
+-------------------------------------------------------
+
+-----------------------------Test case 2---------------
+Select a choice:
+1) Create your own graph and perform Dijkstra
+2)Test Dijkstra algorithm with preloaded Test case1.
+2
+0 - 0
+1 - 4
+2 - 12
+3 - 19
+4 - 28
+5 - 16
+6 - 18
+7 - 8
+8 - 14
+
+
+---------------------------------------------------------
